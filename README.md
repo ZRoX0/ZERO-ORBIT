@@ -45,6 +45,9 @@
 
 ZERO-ORBIT لا تعمل كـ Vulnerability Scanner عادي. فكرتها إنشاء **Digital Twin** للموقع:
 git clone https://github.com/ZRoX0/ZERO-ORBIT.git
-cd dragon-recon
+
+cd ZERO-ORBIT
+
 chmod +x zero_orbit.py
+
 python3 zero_orbit.py
